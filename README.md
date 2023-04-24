@@ -1,6 +1,7 @@
 # Age-and-Gender-Detection
 An interesting Data science project which can be used to predict age and gender of any person in an image or video
-![peop](https://user-images.githubusercontent.com/129524929/234005794-3d8c0c5d-42c0-4844-83cc-cdfb01ab5f11.jpg)
+![image](https://user-images.githubusercontent.com/129524929/234006946-932b26e4-a60b-4b03-887b-79bc827b9c29.png)
+
 This project is a Python-based implementation of a model that can predict the age and gender of a person from an image or video. The model uses pre-trained deep learning models to detect and classify faces and predict age and gender.
 
 The project contains below mentioned files:
